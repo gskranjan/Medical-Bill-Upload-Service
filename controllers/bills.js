@@ -2,7 +2,7 @@ const datapath = "./model_data/bills_data.json"
 function checkString(str) {
 	if (typeof (str) == "string") {
 		return true;
-	} F
+	}
 	return false;
 }
 function createMedicalBills(data) {
